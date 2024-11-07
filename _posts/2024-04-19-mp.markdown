@@ -1,0 +1,16 @@
+---
+layout:       post
+title:      "《大学学习经历》"
+author:      "zhang"
+haader-style: text
+catalog:      ture
+tags:
+    - web
+    - college
+    - experience
+---
+
+
+>这个文章主要写我大学的学习内容
+目前主要学习python的一些基础
+-张宝亮，江西财经职业学院的一名学生
